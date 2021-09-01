@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mturkodu3a3cd648": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
